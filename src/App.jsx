@@ -5,7 +5,7 @@ import data from './data.json'
 import React, { useState } from 'react'
 import { v4 as uuid} from 'uuid'
 
-
+/* creado por leox.dev */
 
 function App() {
 
