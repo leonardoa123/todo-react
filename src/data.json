@@ -1,17 +1,17 @@
 [{
     "id": 1,
-    "task": "ir de compras",
+    "task": "Aprender React",
     "complete": false
   }, {
     "id": 2,
-    "task": "lavar carro",
+    "task": "Hacer Todo App",
     "complete": false
   }, {
     "id": 3,
-    "task": "cocinar",
+    "task": "Hacer deploy de la app",
     "complete": true
   }, {
     "id": 4,
-    "task": "lavar la ropa",
+    "task": "publicar en github",
     "complete": false
 }]
