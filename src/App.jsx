@@ -35,7 +35,6 @@ function App() {
     }] 
     )
     setTodos(newItem)
-    console.log([...todos])
   }
 
   return(
