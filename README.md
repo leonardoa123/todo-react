@@ -1,4 +1,4 @@
-##Todo App
+<h1>Todo App</h1>
 Este es un proyecto de una aplicación de lista de tareas (ToDo) desarrollada en React usando Vite y CSS. La aplicación permite agregar, completar y eliminar tareas.
 
 Tabla de Contenidos
