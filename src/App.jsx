@@ -27,7 +27,7 @@ function App() {
   }
 
   const addTodo = (newTodo) => {
-    console.log(newTodo)
+    
     const newItem = [...todos].concat([{
       id: uuid(),
       task: newTodo,

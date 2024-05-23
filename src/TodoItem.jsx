@@ -16,9 +16,7 @@ function TodoItem({todo, onComplete, onDelete}) {
             checked={todo.completed} 
             onChange={ () => onComplete(todo.id) }/>
         <span>{todo.task}</span>
-        <button onClick={() => onDelete(todo.id)}>
-            <i className="fa-solid fa-trash"></i>
-        </button>
+        <button onClick={() => onDelete(todo.id)}>X</button>
     </li>
   )
 }
