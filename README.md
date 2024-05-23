@@ -2,6 +2,8 @@
 
 Este es un proyecto de una aplicación de lista de tareas (ToDo) desarrollada en React usando Vite y CSS. La aplicación permite agregar, completar y eliminar tareas.
 
+ir a la app: https://master--beautiful-vacherin-5b8ef9.netlify.app/
+
 ### Tabla de Contenidos
 - Características
 - Tecnologías
